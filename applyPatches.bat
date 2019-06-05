@@ -20,4 +20,7 @@ popd
 
 :quit
 echo​ nothing to do here
+ feature/a
+
 echo​ this line: nothing to do here too
+ master
