@@ -19,3 +19,4 @@ call apply_patches_with_revert.bat
 popd
 
 :quit
+echo​ nothing to do here
